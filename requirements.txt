@@ -1,4 +1,4 @@
-pandas==3.0.3
+pandas==2.2.2
 pywebview==6.2.1
 streamlit==1.56.0
 ipython==8.12.3
